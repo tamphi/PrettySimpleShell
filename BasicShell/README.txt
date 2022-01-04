@@ -1,8 +1,3 @@
-
-Project 1
-Tam Phi
-14315860
-
 How To Compile & Run
 ====================
 Makefile will compile. To run ./pssh
